@@ -1,0 +1,35 @@
+.container{
+    background-color:rgb(9, 142, 204);
+    height: 300px;
+    width: 750px;
+    margin:0px auto;
+}
+
+#display{
+    
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 2cm;
+    color: white;
+
+}
+
+.buttons{
+    padding: 2cm;
+    text-align: center;
+    
+}
+
+#startStop{
+    margin-right: 1cm;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+#reset{
+    margin-left: 1cm;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
